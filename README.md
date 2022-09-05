@@ -15,7 +15,7 @@ Kernal function is to place electrical consumption in watts, device runtime and 
 ![UML](https://raw.githubusercontent.com/mysdiir/Stromkosten_calculator/44aed0207abbbec41e37ac1858418f242b09bd7e/UML%20Stromrechner.drawio.svg)
 
 ## central point of indepth learning
-- implementation of events in Java (e.g. ActionListener and ActionEvent), especiallyunderstanding interaction with ActionListener and ActionEvent
+- implementation of events in Java (e.g. ActionListener and ActionEvent), especially understanding interaction with ActionListener and ActionEvent
 - deeper understanding of abstract classes and interfaces within Java
 - modeling an UML model
 - cautious approach on clean code guidelines
