@@ -4,6 +4,8 @@
 A small project with focussing on MVC models, GUI implementation and building an UML.
 Kernal function is to place electrical consumption in watts, device runtime and electricity price to calculate consumption and price per predefined period of time.
 
+<b>Contains raw Java class files and no executable file</b>
+
 ## Overview
 
 (Screenshot coming soon)
