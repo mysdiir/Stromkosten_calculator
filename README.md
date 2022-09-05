@@ -6,6 +6,8 @@ Kernal function is to place electrical consumption in watts, device runtime and 
 
 ## Overview
 
+(Screenshot coming soon)
+
 ## UML
 
 ![UML](https://raw.githubusercontent.com/mysdiir/Stromkosten_calculator/44aed0207abbbec41e37ac1858418f242b09bd7e/UML%20Stromrechner.drawio.svg)
